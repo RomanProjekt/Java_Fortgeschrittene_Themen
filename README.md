@@ -5,5 +5,5 @@ Grundlagen und Fortschrittliche Themen
 - Functional Interface
 - Lamda
 - Streams
-- 
+
 
