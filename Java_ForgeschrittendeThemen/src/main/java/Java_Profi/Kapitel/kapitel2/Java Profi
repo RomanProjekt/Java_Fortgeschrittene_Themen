@@ -1,0 +1,6 @@
+
+Was sind Streams?
+
+Streams können aus Arrays, Listen, anderen Collections und aus 
+Einzelobjekten, sowie mittels sog. StreamBuilder erzeugt werden. 
+Je nach verwendeter Methode kann das Ergebnis jedoch unterschiedlich ausfallen. 
